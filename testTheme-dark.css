@@ -1,14 +1,14 @@
-@import url("md3/base.css");
-@import url("md3/modules.css");
-@import url("md3/titlebar.css");
-@import url("md3/scrollbar.css");
-@import url("md3/inputs.css");
+@import url("testTheme-dark/base.css");
+@import url("testTheme-dark/modules.css");
+@import url("testTheme-dark/titlebar.css");
+@import url("testTheme-dark/scrollbar.css");
+@import url("testTheme-dark/inputs.css");
 
 /* optional */
-@import url("md3/module-hide-unneeded.css");
-@import url("md3/module-danger-highlight.css");
-@import url("md3/module-hc-toggle.css");
-@import url("md3/use-system-font.css");
+@import url("testTheme-dark/module-hide-unneeded.css");
+@import url("testTheme-dark/module-danger-highlight.css");
+@import url("testTheme-dark/module-hc-toggle.css");
+@import url("testTheme-dark/use-system-font.css");
 
 /* General */
 @define-color selected_bg_color @grey_50;       /* legacy stuff */
